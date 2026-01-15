@@ -16,7 +16,7 @@ legibility and simplicity. It is a modern, geometric typeface that is based on
 the principles of classic Swiss typography. It is designed to be used in
 headlines, logos, posters, and other large display sizes.}
 
-%global fontfamily2 GeistMono
+%global fontfamily2 Geist Mono
 %global fontsummary2 The Geist Mono font family
 %global fonts2 geist-font-%{version}/fonts/GeistMono/otf/*.otf
 %global fontconfs2 %{SOURCE11}
