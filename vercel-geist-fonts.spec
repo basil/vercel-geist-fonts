@@ -16,11 +16,11 @@ legibility and simplicity. It is a modern, geometric typeface that is based on
 the principles of classic Swiss typography. It is designed to be used in
 headlines, logos, posters, and other large display sizes.}
 
-%global fontfamily2 Geist Mono
-%global fontsummary2 The Geist Mono font family
-%global fonts2 geist-font-%{version}/fonts/GeistMono/otf/*.otf
-%global fontconfs2 %{SOURCE11}
-%global fontdescription2 %{expand:Geist Mono is a monospaced typeface that has
+%global fontfamily1 Geist Mono
+%global fontsummary1 The Geist Mono font family
+%global fonts1 geist-font-%{version}/fonts/GeistMono/otf/*.otf
+%global fontconfs1 %{SOURCE11}
+%global fontdescription1 %{expand:Geist Mono is a monospaced typeface that has
 been crafted to be the perfect partner to Geist Sans. It is designed to be used
 in code editors, diagrams, terminals, and other textbased interfaces where code
 is represented.}
